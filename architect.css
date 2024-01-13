@@ -1,13 +1,21 @@
 /* @import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap') */
 
 /* shared style */
-*{
+* {
     font-family: ;
     font-family: ;
     font-family: ;
 }
-.btn-primary{
-    
+
+.btn-primary {
+    border-radius: 8px;
+    background: #FF900E;
+    color: #FFF;
+    padding: 20px 25px;
+    font-size: 1.25rem;
+    cursor: pointer;
+    border: 0;
+    font-weight: 600;
 }
 
 /* header style */
